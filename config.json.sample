@@ -1,0 +1,11 @@
+{
+    "cam_base":"http://domain.com/cams/",
+    "token":"xoxb-......",
+    "token2":"xoxp-......",
+    "group":"bmytestchannel",
+    "cams":{
+	"home":["cam-home-1st-floor","cam-home-2nd-floor"],
+	"work":["cam-work-lobby"]
+    }
+}
+
